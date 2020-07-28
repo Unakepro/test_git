@@ -4,6 +4,7 @@ def get_random(n):
 
 def new_function():
     pass
-print(1)
+print(1 )
 if __name__ == "__main__":
     print("Hello")
+    print("gkrk")
